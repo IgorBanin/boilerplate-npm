@@ -1,6 +1,6 @@
 {
-	"author": "Igor Banin",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Igor Banin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
